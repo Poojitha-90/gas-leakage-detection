@@ -1,0 +1,8 @@
+Components Needed :-
+1) ARDUINO 
+2) MQ 5 GAS SENSOR(DETECTS : H2, LPG, CH4, CO, Alcohol)
+3) LED'S - 2
+4) BUZZER
+5) 1K RESISTOR - 2
+6) JUMPER WIRE
+7) BREADBOARD
